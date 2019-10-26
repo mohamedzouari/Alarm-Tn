@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "597650488248",
+    "firebase_url": "https://alarmtn-d524f.firebaseio.com",
+    "project_id": "alarmtn-d524f",
+    "storage_bucket": "alarmtn-d524f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597650488248:android:bc830a23ef6eff78",
+        "android_client_info": {
+          "package_name": "com.macormap.lasveglia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597650488248-gc0tc7rbkqqs3aovf50af7euf13520c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl1cfpwCLUTTQiVD5KQZGmR3YoMRh9zk4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
